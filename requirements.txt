@@ -1,0 +1,11 @@
+nltk
+scikit-learn
+pandas
+numpy
+gensim
+keras
+matplotlib
+Seaborn
+streamlit
+python-docx
+PyPDF2
